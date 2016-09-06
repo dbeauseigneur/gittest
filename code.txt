@@ -1,1 +1,11 @@
-Salut tout le monde
+Le code pour mettre à jour le commit
+git commit -m "maj du commit"
+
+le code pour le lien au dépot
+
+git remote add origin https://github.com/dbeauseigneur/gittest
+
+pour récupérer les données
+
+git pull https://github.com/dbeauseigneur/gittest
+
